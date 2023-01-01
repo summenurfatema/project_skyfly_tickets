@@ -1,0 +1,16 @@
+{
+  "name": "skyfly-server",
+  "version": "1.0.0",
+  "description": "skyfly is A ticket booking application for plains. people can book ticket to our service",
+  "main": "index.js",
+  "repository": "https://github.com/summenurfatema/project_skyfly_tickets/server",
+  "author": "Mahamodul Hasan Moon , Mukta Rani Das and  Fatema Summenur",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
